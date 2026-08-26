@@ -27,4 +27,16 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sahidulafridi/Problem_Solving/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
