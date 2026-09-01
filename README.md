@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/sahidulafridi/Problem_Solving/tree/master/0029-divide-two-integers) |
 ## String
 |  |
 | ------- |
@@ -50,4 +51,8 @@
 | ------- |
 | [0015-3sum](https://github.com/sahidulafridi/Problem_Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahidulafridi/Problem_Solving/tree/master/0016-3sum-closest) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/sahidulafridi/Problem_Solving/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
