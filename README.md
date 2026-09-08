@@ -48,6 +48,7 @@
 | [0006-zigzag-conversion](https://github.com/sahidulafridi/Problem_Solving/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sahidulafridi/Problem_Solving/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
+| [0032-longest-valid-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +70,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sahidulafridi/Problem_Solving/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
