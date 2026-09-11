@@ -51,6 +51,7 @@
 | [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/sahidulafridi/Problem_Solving/tree/master/0038-count-and-say) |
 ## Sorting
 |  |
 | ------- |
