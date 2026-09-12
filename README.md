@@ -43,6 +43,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sahidulafridi/Problem_Solving/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/sahidulafridi/Problem_Solving/tree/master/0050-powx-n) |
 ## String
 |  |
 | ------- |
@@ -95,4 +96,5 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/sahidulafridi/Problem_Solving/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/sahidulafridi/Problem_Solving/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
