@@ -23,6 +23,7 @@
 | [0016-3sum-closest](https://github.com/sahidulafridi/Problem_Solving/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahidulafridi/Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0864-image-overlap](https://github.com/sahidulafridi/Problem_Solving/tree/master/0864-image-overlap) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahidulafridi/Problem_Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/sahidulafridi/Problem_Solving/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/sahidulafridi/Problem_Solving/tree/master/0050-powx-n) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahidulafridi/Problem_Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
