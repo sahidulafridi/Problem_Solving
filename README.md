@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
+| [1096-brace-expansion-ii](https://github.com/sahidulafridi/Problem_Solving/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
 | ------- |
@@ -58,11 +59,13 @@
 | [0022-generate-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sahidulafridi/Problem_Solving/tree/master/0038-count-and-say) |
+| [1096-brace-expansion-ii](https://github.com/sahidulafridi/Problem_Solving/tree/master/1096-brace-expansion-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/sahidulafridi/Problem_Solving/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sahidulafridi/Problem_Solving/tree/master/0016-3sum-closest) |
+| [1096-brace-expansion-ii](https://github.com/sahidulafridi/Problem_Solving/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +91,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/sahidulafridi/Problem_Solving/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -97,6 +101,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/sahidulafridi/Problem_Solving/tree/master/1096-brace-expansion-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -106,4 +111,8 @@
 |  |
 | ------- |
 | [0864-image-overlap](https://github.com/sahidulafridi/Problem_Solving/tree/master/0864-image-overlap) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/sahidulafridi/Problem_Solving/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
