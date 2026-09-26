@@ -23,6 +23,7 @@
 | [0016-3sum-closest](https://github.com/sahidulafridi/Problem_Solving/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sahidulafridi/Problem_Solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0864-image-overlap](https://github.com/sahidulafridi/Problem_Solving/tree/master/0864-image-overlap) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahidulafridi/Problem_Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sahidulafridi/Problem_Solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/sahidulafridi/Problem_Solving/tree/master/0012-integer-to-roman) |
 | [1096-brace-expansion-ii](https://github.com/sahidulafridi/Problem_Solving/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahidulafridi/Problem_Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sahidulafridi/Problem_Solving/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/sahidulafridi/Problem_Solving/tree/master/0038-count-and-say) |
 | [1096-brace-expansion-ii](https://github.com/sahidulafridi/Problem_Solving/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/sahidulafridi/Problem_Solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Sorting
 |  |
 | ------- |
